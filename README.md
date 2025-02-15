@@ -1,6 +1,5 @@
 # CutPad - Custom Macro Controller
-
-![CutPad Assembly](docs/images/image1.jpg)
+<img src="docs/images/image1.jpg" width="40%">   <img src="docs/images/image4.png" width="40%">
 
 **Ein minimalistisches 8-Tasten Macro Pad mit Dual-Encodern und OLED-Display - optimiert für effiziente Workflows**
 
@@ -22,7 +21,8 @@ Key Features:
 | Firmware            | QMK mit Custom OLED-Treiber                           |
 
 ## Hardware-Design
-![PCB Layout](docs/images/footprints1.png)
+<img src="docs/images/footprints1.png" width="40%">
+
 
 - **Kompaktes Layout:** 4×3 Matrix mit intelligentem Routing
 - **Encoder-Integration:** EC11 Encoder mit stabiler THT-Montage
