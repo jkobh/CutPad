@@ -59,7 +59,11 @@ bool oled_task_user(void) {
     }
     // ... Animationslogik
     return true;
-}```
+}
+```
 
 ## License
-MIT License - See [LICENSE](LICENSE) file
+Creative Commons Attribution-NonCommercial 4.0 International License
+
+## Copyright
+Jakob
