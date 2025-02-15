@@ -1,6 +1,6 @@
 # CutPad - Custom Macro Controller
 
-![CutPad Assembly](docs/images/cutpad_assembled.jpg)
+![CutPad Assembly](docs/images/image1.jpg)
 
 **Ein minimalistisches 8-Tasten Macro Pad mit Dual-Encodern und OLED-Display - optimiert für effiziente Workflows**
 
@@ -10,20 +10,19 @@ Key Features:
 - Windows Shortcuts
 
 ## Technische Spezifikationen
-| Komponente          | Details                                                                 |
-|---------------------|-------------------------------------------------------------------------|
-| Controller          | Pro Micro (ATmega32U4)                                                 |
-| Anschluss           | USB-C 2.0                                                              |
-| Tasten              | 8× MX-Switches + 2× EC11 Encoder mit Drucktasten                       |
-| Display             | 0.91" I2C OLED (SSD1306, 32×128 Pixel)                                |
-| PCB Design          | [EasyEDA Projekt](https://easyeda.com/your-design-link)                |
-| Herstellung         | [JLCPCB](https://jlcpcb.com) SMT Assembly                              |
-| Abmessungen         | 60×80×35mm                                                            |
-| Firmware            | QMK mit Custom OLED-Treiber                                           |
+| Komponente          | Details                                               |
+|---------------------|-------------------------------------------------------|
+| Controller          | Pro Micro (ATmega32U4)                                |
+| Anschluss           | USB-C 2.0                                             |
+| Tasten              | 8× MX-Switches + 2× EC11 Encoder mit Drucktasten      |
+| Display             | 0.91" I2C OLED (SSD1306, 32×128 Pixel)                |
+| PCB Design          | [EasyEDA Projekt](https://easyeda.com)                |
+| Herstellung         | [JLCPCB](https://jlcpcb.com) SMT Assembly             |
+| Abmessungen         | 60×80×35mm                                            |
+| Firmware            | QMK mit Custom OLED-Treiber                           |
 
 ## Hardware-Design
-![PCB Layout](docs/images/pcb_design_easyeda.png)
-*Optimiert für JLCPCBs SMT-Service mit durchgängigen Testpunkten*
+![PCB Layout](docs/images/footprints1.png)
 
 - **Kompaktes Layout:** 4×3 Matrix mit intelligentem Routing
 - **Encoder-Integration:** EC11 Encoder mit stabiler THT-Montage
